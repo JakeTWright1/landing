@@ -1,0 +1,22 @@
+.banner p {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  color: aliceblue;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  text-shadow: 2px 2px 2px gray;
+}
+
+.banner h1 {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: aliceblue;
+  text-shadow: 2px 2px 2px gray;
+}
+
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}

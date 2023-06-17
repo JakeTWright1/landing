@@ -1,0 +1,18 @@
+.btn-fill {
+  display: inline-block;
+  margin-top: 10px;
+  color: #3C486B;
+  font-weight: bold;
+  background-color: #f5cac3;
+  font-family: 'Varela Round', sans-serif;
+  padding: 15px 25px;
+  font-weight: bold;
+  border: 4px solid #F45050;
+  border-radius: 25px;
+  transition: background 0.2s ease;
+}
+
+.btn-fill:hover {
+  color: #f5cac3;
+  background-color: #F45050;
+}
